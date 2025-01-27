@@ -1,19 +1,16 @@
-Your task is to perform a multiple linear regression analysis to predict the price of Toyota corolla based on the given attributes.
-**Dataset Description:**
+Toyota Corolla Price Prediction: Multiple Linear Regression
+This repository contains code and analysis for predicting the price of Toyota Corolla cars using multiple linear regression. The dataset includes features such as car age, accumulated kilometers, fuel type, horsepower, and more. The goal is to perform exploratory data analysis (EDA), build multiple regression models, and evaluate the model's performance.
+
+Dataset Description
 The dataset consists of the following variables:
-Age: Age in years
-KM: Accumulated Kilometers on odometer
-FuelType: Fuel Type (Petrol, Diesel, CNG)
-HP: Horse Power
-Automatic: Automatic ( (Yes=1, No=0)
-CC: Cylinder Volume in cubic centimeters
-Doors: Number of doors
-Weight: Weight in Kilograms
-Quarterly_Tax: 
-Price: Offer Price in EUROs
-**Taskes:**
-1.Perform exploratory data analysis (EDA) to gain insights into the dataset. Provide visualizations and summary statistics of the variables. Pre process the data to apply the MLR.
-2.Split the dataset into training and testing sets (e.g., 80% training, 20% testing).
-3.Build a multiple linear regression model using the training dataset. Interpret the coefficients of the model. Build minimum of 3 different models.
-4.Evaluate the performance of the model using appropriate evaluation metrics on the testing dataset.
-5.Apply Lasso and Ridge methods on the model.
+
+Age: Age of the car (in years)
+KM: Accumulated kilometers on the odometer
+FuelType: Type of fuel used (Petrol, Diesel, CNG)
+HP: Horsepower of the car
+Automatic: Whether the car is automatic (1 = Yes, 0 = No)
+CC: Cylinder volume in cubic centimeters
+Doors: Number of doors in the car
+Weight: Weight of the car (in kilograms)
+Quarterly_Tax: Quarterly tax amount for the car
+Price: Offer price of the car (in Euros)
