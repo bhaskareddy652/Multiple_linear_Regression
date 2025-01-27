@@ -1,4 +1,4 @@
-**Toyota Corolla Price Prediction: Multiple Linear Regression **    
+Toyota Corolla Price Prediction: Multiple Linear Regression    
 -------------------------------------------------------------
 
 This repository contains code and analysis for predicting the price of Toyota Corolla cars using multiple linear regression. The dataset includes features such as car age, accumulated kilometers, fuel type, horsepower, and more. The goal is to perform exploratory data analysis (EDA), build multiple regression models, and evaluate the model's performance.
